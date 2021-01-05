@@ -1,0 +1,46 @@
+
+
+  body {
+    font-family: "Helvetica", Sans-Serif;
+    background-image: url("/Users/calebbeno/Desktop/css-practise/background-image (1).jpeg");
+  }
+  
+  
+  
+
+/*Top header profile image*/
+.profile-small {
+   height:150px;
+   border-radius: 50%;
+   border: 10px solid #FEDE00;
+}
+
+
+.header {
+  padding: 40px;
+  text-align: center;
+  background: cyan;
+  margin:30px;
+  font-size:20px;
+}
+
+.header2 {
+  padding: 40px;
+  text-align: center;
+  background: cyan;
+  margin:30px;
+  font-size:20px;
+}
+
+.header3 {
+  padding: 40px;
+  text-align: center;
+  background: cyan;
+  margin:30px;
+  font-size:20px;
+}
+
+a:hover{
+  font-size:40px ;
+  color: red;
+}
